@@ -15,4 +15,4 @@ Simple web application written with
   3. Humidity  (in %)
   4. Wind-Speed  (in km/h)
 
->This app is live hosted here: [Weather-App](https://chhotu05.github.io/weather-app/).
+>This app is live hosted here: [Weather-App](https://jatin-r-puthran.github.io/weather-app/).
